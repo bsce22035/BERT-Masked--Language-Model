@@ -16,11 +16,11 @@ Enter a sentence with '[MASK]': The capital of France is [MASK].
 Console:
 
 Predictions: ['Paris', 'Lyon', 'Marseille', 'Berlin', 'London']
-The capital of France is Paris.
-The capital of France is Lyon.
-The capital of France is Marseille.
-The capital of France is Berlin.
-The capital of France is London.
+- The capital of France is Paris.
+- The capital of France is Lyon.
+- The capital of France is Marseille.
+- The capital of France is Berlin.
+- The capital of France is London.
 
-Attention heatmaps saved as PNG files (Attention_Layer1_Head1.png, etc.)
+- Attention heatmaps saved as PNG files (Attention_Layer1_Head1.png, etc.)
 
